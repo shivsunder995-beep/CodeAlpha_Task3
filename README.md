@@ -184,20 +184,25 @@ This makes the website publicly accessible and easy to share with recruiters and
 # 📂 Project Structure
 
 Portfolio/
+
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── project.html
+
 ├── skill.html
+
 ├── about.html
+
 ├── resume.pdf
+
 └── profile.png
 │
-├── screenshots/
-│
 └── README.md
-```
 
 ---
 
@@ -274,7 +279,7 @@ The **Personal Portfolio Website** is a professional frontend project that repre
 
 ---
 
-## 👨‍💻 Developed By
+## 👨💻 Developed By
 
 ****Shiv Sundar Maurya****
 
